@@ -23,15 +23,17 @@ https://github.com/im-2000/drum-front
 Back-end repo ->
 https://github.com/im-2000/drum-back
 
-#### Love is Boolean
+#### LOVE IS BOOLEAN
 Group project. Building dating app for developers.
-Video preview -> 
+
+##### Video preview -> 
 https://share.descript.com/view/DrmKatPpT8X
-Front-end repo ->
+##### Front-end repo ->
 https://github.com/im-2000/love-frontend
-Back-end repo ->
+##### Back-end repo ->
 https://github.com/im-2000/love-backend
 
-#### Group project. Building web-shop.
+#### WEB-SHOP.
+Group project.
 
 
