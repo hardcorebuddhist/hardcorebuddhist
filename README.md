@@ -16,11 +16,12 @@ Additional skills in TYPESCRIPT, REACT NATIVE, GRAPH-QL.
 
 #### TWEAK PEAK
 Building interactive music app for creating and mixing audio loops (React.js, Redux Toolkit, Tone.js, Node.js, Sequelize, Axios, PostgreSQL). It is solo project with creative idea and styling, which includes sampler to mix audio loops in 3 different styles and drum machine to create your own drum loops. All sounds produced by myself. My app won the 2nd place in the web apps challenge at Codaisseur Academy and I am keeping on working on it to bring more ideas into life.
-Video preview -> 
+
+##### Video preview -> 
 https://share.descript.com/view/OTakHg7vZCO?fbclid=IwAR1XiVN1QZLKqhfYYgwhEFtBX8xtdx5vuF5WwpmSlFKqj5A-ss1ECmjkU2o
-Front-end repo ->
+##### Front-end repo ->
 https://github.com/im-2000/drum-front
-Back-end repo ->
+##### Back-end repo ->
 https://github.com/im-2000/drum-back
 
 #### LOVE IS BOOLEAN
@@ -35,5 +36,10 @@ https://github.com/im-2000/love-backend
 
 #### WEB-SHOP.
 Group project.
+
+### PRE-CODING EXPERIENCE
+I am self-educated sound producer and composer. Music is my passion. Being involved to sound production for 15 years I realised that creating process is the most interesting thing for me and actually it is the reasons of choosing developer career since it is also about creation. I used to learn a huge amount of different proffesional software and synthesizers, always have been experimenting in order to find original sound and style. For the last 8 years I've composed and released about 7 music albums and about 15 compositions in collaboration with famous artists. My music have been supported by world known labels and my sound considered to be authentic one. Sometimes I have gigs throughout the world on weekends and I also get some royalties from music sales. 
+##### Discography -> https://open.spotify.com/artist/6UMbXpVgril0PEbolGb60U
+
 
 
