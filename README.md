@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### PROFILE
 I was born in Ukraine, living in Amsterdam. Being involved with electronic music production for 15 years I decided to learn coding since it is also about creation. In July 2022 I've passed the course of Full Stack Software Developer at Codaisseur Academy(Amsterdam) and looking forward to get position of Junior Software Developer to bring my creative and technical experience into life and to become a part of experienced team in order to learn new technologies and increase as developer. 
 
@@ -8,7 +6,7 @@ It was 11 weeks course of intensive learning and practicing where I've got basic
 technologies as:
 
 - REACT, REACT HOOKS, REDUX TOOLKIT, AXIOS, HTML, CSS;
-- NODE, SEQUELIZE, EXPRESS, REST API;
+- NODE, SEQUELIZE, EXPRESS, REST API, PostgreSQL.
 
 Additional skills in TYPESCRIPT, REACT NATIVE, GRAPH-QL.
 
