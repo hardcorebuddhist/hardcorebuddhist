@@ -4,16 +4,19 @@ A year ago I have joined Meditools team as full stack developer right after my g
 
 ### CODING EXPERIENCE
 
-#### Full stack developer with focus mostly on front-end.
-##### Meditools Creator B.V.
+#### FULL STACK DEVELOPER 
+with focus mostly on front-end.
+#### Meditools Creator B.V.
 
 September 2022 - current
 
 Developing quite complex web application for general practitioners.
 
-Stack: Typescript, React, Overmind, CSS, Syncfusion, Ionic framework, Aidbox, Fast Healthcare Interoperability Resources (FHIR), Cascading Style Sheets (CSS)
+#### Stack
 
-### CODAISSEUR
+TYPESCRIPT, REACT, OVERMIND, SASS, CSS, SYNCFUSION, IONIC FRAMEWORK, AIDBOX, FHIR (Fast Healthcare Interoperability ResourceS)
+
+#### CODAISSEUR
 It was 11 weeks course of intensive learning and practicing where I've got basic knowledge in JavaScript and technical skills in such 
 technologies as:
 
