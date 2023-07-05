@@ -2,6 +2,17 @@
 Ukrainian born, Netherlands based. Creative, calm and open-minded person passionated for coding, hiking and composing music. Being a self-educated music producer and having pretty wide background in electronic music production I decided to switch to coding, keeping music as a hobby.
 A year ago I have joined Meditools team as full stack developer right after my graduation from Codaisseur Academy in Amsterdam and currently having some valuable coding experience I am open for a new challenge. A mix of tech and styling as well as variety of projects and tasks would be definitely the best combination for me.
 
+### CODING EXPERIENCE
+
+#### Full stack developer with focus mostly on front-end.
+##### Meditools Creator B.V.
+
+September 2022 - current
+
+Developing quite complex web application for general practitioners.
+
+Stack: Typescript, React, Overmind, CSS, Syncfusion, Ionic framework, Aidbox, Fast Healthcare Interoperability Resources (FHIR), Cascading Style Sheets (CSS)
+
 ### CODAISSEUR
 It was 11 weeks course of intensive learning and practicing where I've got basic knowledge in JavaScript and technical skills in such 
 technologies as:
@@ -10,14 +21,6 @@ technologies as:
 - NODE, SEQUELIZE, EXPRESS, REST API, PostgreSQL.
 
 Additional skills in TYPESCRIPT, REACT NATIVE, GRAPH-QL.
-
-### CODING EXPERIENCE
-
-#### Full stack developer with focus mostly on front-end.
-##### Meditools Creator B.V.
-September 2022 - current
-Developing quite complex web application for general practitioners.
-Stack: Typescript, React, Overmind, CSS, Syncfusion, Ionic framework, Aidbox, Fast Healthcare Interoperability Resources (FHIR), Cascading Style Sheets (CSS)
 
 #### TWEAK PEAK
 Interactive music app for creating and mixing audio loops (React.js, Redux Toolkit, Tone.js, Node.js, Sequelize, Axios, PostgreSQL). It is solo project with creative idea and styling, which includes sampler to mix audio loops in 3 different styles and drum machine to create your own drum loops. All sounds produced by myself. My app won the 2nd place in the web apps challenge at Codaisseur Academy and I am keeping on working on it to bring more ideas into life.
@@ -31,7 +34,6 @@ https://github.com/im-2000/drum-back
 
 #### LOVE IS BOOLEAN
 Group project. Building dating app for developers.
-
 ##### Video preview -> 
 https://share.descript.com/view/DrmKatPpT8X
 ##### Front-end repo ->
