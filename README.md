@@ -1,6 +1,8 @@
 ### PROFILE
-Ukrainian born, Netherlands based. Creative, calm and open-minded person passionated for coding, hiking and composing music. Being a self-educated music producer and having pretty wide background in electronic music production I decided to switch to coding, keeping music as a hobby.
-A year ago I have joined Meditools team as full stack developer right after my graduation from Codaisseur Academy in Amsterdam and currently having some valuable coding experience I am open for a new challenge. A mix of tech and styling as well as variety of projects and tasks would be definitely the best combination for me.
+Originally hailing from Ukraine and now based in Netherlands since 2022. With two years of experience in web development under my belt, I'm eager to take on fresh challenges and join a talented team dedicated to crafting functional and responsive applications. While my passion lies in frontend development, I've cultivated a solid foundation in backend technologies, particularly in the realm of building robust APIs and deploying projects. This comprehensive understanding of both frontend and backend aspects allows me to architect end-to-end solutions that deliver exceptional user experiences while ensuring scalability and reliability under the hood. 
+I thrive on the creative process, bringing technical and styling concepts to life with a blend of creativity and technical skill. Able to self-manage the production of high-end websites (both frontend and backend), work on complex projects as a part of a productive and proficient team as well as mentor juniors.
+I'm excited to contribute my expertise, learn from the team, and continue my growth journey as either frontend or full stack developer. 
+Let's build something incredible together!
 
 ### CODING EXPERIENCE
 
